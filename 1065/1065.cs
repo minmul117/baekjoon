@@ -2,9 +2,9 @@
 
 namespace _1065
 {
-    class _1065
+    public class _1065
     {
-        static void solver()
+        public void solver()
         {
             int max_number = Int32.Parse(Console.ReadLine());
             int count = 0;
